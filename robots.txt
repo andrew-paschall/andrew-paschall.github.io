@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /resume.pdf
+Allow: /$
+Allow: /index.html$
+Sitemap: sitemap.xml
